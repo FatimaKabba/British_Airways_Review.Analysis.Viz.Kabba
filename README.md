@@ -34,6 +34,7 @@ How does aircraft type influence customer satisfaction?
 What are the weakest areas of service that need attention?
 Focused on interactivity, user-friendliness, and actionable insights to create a professional dashboard.
 📈 Key Takeaways
+
 Actionable Insights:
 
 Entertainment is a significant area for improvement.
@@ -48,3 +49,4 @@ Data Analysis
 Tableau
 Data Visualization
 Business Intelligence
+https://public.tableau.com/app/profile/kabba.fatima.ezzahra/vizzes
